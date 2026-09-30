@@ -1,0 +1,4 @@
+const mongoose = require('mongoose');
+const schema = new mongoose.Schema({ name: String, brand: String, socket: String, cores: Number, threads: Number, baseClock: Number, boostClock: Number, tdp: Number, integratedGraphics: Boolean, architecture: String, memoryType: String, maxMemory: Number, memoryChannels: Number, pcieVersion: String, price: Number, image: String, description: String, specSource: String, category: { type: String, default: 'CPU' } }, { timestamps: true });
+schema.set('toJSON', { virtuals: true, transform: (doc, ret) => { ret.id = ret._id; delete ret._id; delete ret.__v; return ret; } });
+module.exports = mongoose.model('CPU', schema);

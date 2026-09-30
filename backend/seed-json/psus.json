@@ -1,0 +1,3147 @@
+[
+  {
+    "name": "Corsair Series 400W 80+ White",
+    "brand": "Corsair",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 530000
+  },
+  {
+    "name": "Cooler Master Series 400W 80+ White",
+    "brand": "Cooler Master",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 480000
+  },
+  {
+    "name": "Seasonic Series 400W 80+ White",
+    "brand": "Seasonic",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 410000
+  },
+  {
+    "name": "Deepcool Series 400W 80+ White",
+    "brand": "Deepcool",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 420000
+  },
+  {
+    "name": "Aerocool Series 400W 80+ White",
+    "brand": "Aerocool",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 420000
+  },
+  {
+    "name": "FSP Series 400W 80+ White",
+    "brand": "FSP",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 440000
+  },
+  {
+    "name": "Thermaltake Series 400W 80+ White",
+    "brand": "Thermaltake",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 520000
+  },
+  {
+    "name": "Thermaltake Series 400W 80+ White",
+    "brand": "Thermaltake",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 480000
+  },
+  {
+    "name": "be quiet! Series 400W 80+ White",
+    "brand": "be quiet!",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 500000
+  },
+  {
+    "name": "NZXT Series 400W 80+ White",
+    "brand": "NZXT",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 540000
+  },
+  {
+    "name": "NZXT Series 400W 80+ White",
+    "brand": "NZXT",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 480000
+  },
+  {
+    "name": "SilverStone Series 400W 80+ White",
+    "brand": "SilverStone",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 470000
+  },
+  {
+    "name": "SilverStone Series 400W 80+ White",
+    "brand": "SilverStone",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 540000
+  },
+  {
+    "name": "MSI Series 400W 80+ White",
+    "brand": "MSI",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 490000
+  },
+  {
+    "name": "MSI Series 400W 80+ White",
+    "brand": "MSI",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 540000
+  },
+  {
+    "name": "ASUS Series 400W 80+ White",
+    "brand": "ASUS",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 410000
+  },
+  {
+    "name": "ASUS Series 400W 80+ White",
+    "brand": "ASUS",
+    "wattage": 400,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 500000
+  },
+  {
+    "name": "Corsair Series 450W 80+ White",
+    "brand": "Corsair",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 560000
+  },
+  {
+    "name": "Cooler Master Series 450W 80+ White",
+    "brand": "Cooler Master",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 620000
+  },
+  {
+    "name": "Cooler Master Series 450W 80+ White",
+    "brand": "Cooler Master",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 590000
+  },
+  {
+    "name": "Seasonic Series 450W 80+ White",
+    "brand": "Seasonic",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 580000
+  },
+  {
+    "name": "Seasonic Series 450W 80+ White",
+    "brand": "Seasonic",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 560000
+  },
+  {
+    "name": "Deepcool Series 450W 80+ White",
+    "brand": "Deepcool",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 530000
+  },
+  {
+    "name": "Aerocool Series 450W 80+ White",
+    "brand": "Aerocool",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 590000
+  },
+  {
+    "name": "Aerocool Series 450W 80+ White",
+    "brand": "Aerocool",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 500000
+  },
+  {
+    "name": "FSP Series 450W 80+ White",
+    "brand": "FSP",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 500000
+  },
+  {
+    "name": "Thermaltake Series 450W 80+ White",
+    "brand": "Thermaltake",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 560000
+  },
+  {
+    "name": "be quiet! Series 450W 80+ White",
+    "brand": "be quiet!",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 520000
+  },
+  {
+    "name": "be quiet! Series 450W 80+ White",
+    "brand": "be quiet!",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 460000
+  },
+  {
+    "name": "NZXT Series 450W 80+ White",
+    "brand": "NZXT",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 480000
+  },
+  {
+    "name": "SilverStone Series 450W 80+ White",
+    "brand": "SilverStone",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 520000
+  },
+  {
+    "name": "MSI Series 450W 80+ White",
+    "brand": "MSI",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 590000
+  },
+  {
+    "name": "MSI Series 450W 80+ White",
+    "brand": "MSI",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 580000
+  },
+  {
+    "name": "ASUS Series 450W 80+ White",
+    "brand": "ASUS",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 480000
+  },
+  {
+    "name": "ASUS Series 450W 80+ White",
+    "brand": "ASUS",
+    "wattage": 450,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 2,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 500000
+  },
+  {
+    "name": "Corsair Series 500W 80+ White",
+    "brand": "Corsair",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 650000
+  },
+  {
+    "name": "Cooler Master Series 500W 80+ White",
+    "brand": "Cooler Master",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 570000
+  },
+  {
+    "name": "Seasonic Series 500W 80+ White",
+    "brand": "Seasonic",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 550000
+  },
+  {
+    "name": "Seasonic Series 500W 80+ White",
+    "brand": "Seasonic",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 650000
+  },
+  {
+    "name": "Deepcool Series 500W 80+ White",
+    "brand": "Deepcool",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 570000
+  },
+  {
+    "name": "Aerocool Series 500W 80+ White",
+    "brand": "Aerocool",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 520000
+  },
+  {
+    "name": "FSP Series 500W 80+ White",
+    "brand": "FSP",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 600000
+  },
+  {
+    "name": "Thermaltake Series 500W 80+ White",
+    "brand": "Thermaltake",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 670000
+  },
+  {
+    "name": "Thermaltake Series 500W 80+ White",
+    "brand": "Thermaltake",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 690000
+  },
+  {
+    "name": "be quiet! Series 500W 80+ White",
+    "brand": "be quiet!",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 510000
+  },
+  {
+    "name": "be quiet! Series 500W 80+ White",
+    "brand": "be quiet!",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 620000
+  },
+  {
+    "name": "NZXT Series 500W 80+ White",
+    "brand": "NZXT",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 690000
+  },
+  {
+    "name": "NZXT Series 500W 80+ White",
+    "brand": "NZXT",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 590000
+  },
+  {
+    "name": "SilverStone Series 500W 80+ White",
+    "brand": "SilverStone",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 660000
+  },
+  {
+    "name": "MSI Series 500W 80+ White",
+    "brand": "MSI",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 660000
+  },
+  {
+    "name": "ASUS Series 500W 80+ White",
+    "brand": "ASUS",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 590000
+  },
+  {
+    "name": "ASUS Series 500W 80+ White",
+    "brand": "ASUS",
+    "wattage": 500,
+    "efficiency": "80+ White",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 630000
+  },
+  {
+    "name": "Corsair Series 550W 80+ Bronze",
+    "brand": "Corsair",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 850000
+  },
+  {
+    "name": "Corsair Series 550W 80+ Bronze",
+    "brand": "Corsair",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 700000
+  },
+  {
+    "name": "Cooler Master Series 550W 80+ Bronze",
+    "brand": "Cooler Master",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 880000
+  },
+  {
+    "name": "Seasonic Series 550W 80+ Bronze",
+    "brand": "Seasonic",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 810000
+  },
+  {
+    "name": "Deepcool Series 550W 80+ Bronze",
+    "brand": "Deepcool",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 830000
+  },
+  {
+    "name": "Deepcool Series 550W 80+ Bronze",
+    "brand": "Deepcool",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 890000
+  },
+  {
+    "name": "Aerocool Series 550W 80+ Bronze",
+    "brand": "Aerocool",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 820000
+  },
+  {
+    "name": "FSP Series 550W 80+ Bronze",
+    "brand": "FSP",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 790000
+  },
+  {
+    "name": "FSP Series 550W 80+ Bronze",
+    "brand": "FSP",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 730000
+  },
+  {
+    "name": "Thermaltake Series 550W 80+ Bronze",
+    "brand": "Thermaltake",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 920000
+  },
+  {
+    "name": "Thermaltake Series 550W 80+ Bronze",
+    "brand": "Thermaltake",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 820000
+  },
+  {
+    "name": "be quiet! Series 550W 80+ Bronze",
+    "brand": "be quiet!",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 850000
+  },
+  {
+    "name": "be quiet! Series 550W 80+ Bronze",
+    "brand": "be quiet!",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 740000
+  },
+  {
+    "name": "NZXT Series 550W 80+ Bronze",
+    "brand": "NZXT",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 780000
+  },
+  {
+    "name": "NZXT Series 550W 80+ Bronze",
+    "brand": "NZXT",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 850000
+  },
+  {
+    "name": "SilverStone Series 550W 80+ Bronze",
+    "brand": "SilverStone",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 890000
+  },
+  {
+    "name": "SilverStone Series 550W 80+ Bronze",
+    "brand": "SilverStone",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 720000
+  },
+  {
+    "name": "MSI Series 550W 80+ Bronze",
+    "brand": "MSI",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 790000
+  },
+  {
+    "name": "ASUS Series 550W 80+ Bronze",
+    "brand": "ASUS",
+    "wattage": 550,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 760000
+  },
+  {
+    "name": "Corsair Series 600W 80+ Bronze",
+    "brand": "Corsair",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 940000
+  },
+  {
+    "name": "Corsair Series 600W 80+ Bronze",
+    "brand": "Corsair",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 930000
+  },
+  {
+    "name": "Cooler Master Series 600W 80+ Bronze",
+    "brand": "Cooler Master",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 870000
+  },
+  {
+    "name": "Seasonic Series 600W 80+ Bronze",
+    "brand": "Seasonic",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1030000
+  },
+  {
+    "name": "Deepcool Series 600W 80+ Bronze",
+    "brand": "Deepcool",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 880000
+  },
+  {
+    "name": "Deepcool Series 600W 80+ Bronze",
+    "brand": "Deepcool",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 900000
+  },
+  {
+    "name": "Aerocool Series 600W 80+ Bronze",
+    "brand": "Aerocool",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1010000
+  },
+  {
+    "name": "FSP Series 600W 80+ Bronze",
+    "brand": "FSP",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 790000
+  },
+  {
+    "name": "Thermaltake Series 600W 80+ Bronze",
+    "brand": "Thermaltake",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 870000
+  },
+  {
+    "name": "be quiet! Series 600W 80+ Bronze",
+    "brand": "be quiet!",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 790000
+  },
+  {
+    "name": "be quiet! Series 600W 80+ Bronze",
+    "brand": "be quiet!",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 910000
+  },
+  {
+    "name": "NZXT Series 600W 80+ Bronze",
+    "brand": "NZXT",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 840000
+  },
+  {
+    "name": "SilverStone Series 600W 80+ Bronze",
+    "brand": "SilverStone",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 910000
+  },
+  {
+    "name": "SilverStone Series 600W 80+ Bronze",
+    "brand": "SilverStone",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 910000
+  },
+  {
+    "name": "MSI Series 600W 80+ Bronze",
+    "brand": "MSI",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 820000
+  },
+  {
+    "name": "ASUS Series 600W 80+ Bronze",
+    "brand": "ASUS",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 830000
+  },
+  {
+    "name": "ASUS Series 600W 80+ Bronze",
+    "brand": "ASUS",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 980000
+  },
+  {
+    "name": "Corsair Series 650W 80+ Bronze",
+    "brand": "Corsair",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 900000
+  },
+  {
+    "name": "Cooler Master Series 650W 80+ Bronze",
+    "brand": "Cooler Master",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1070000
+  },
+  {
+    "name": "Cooler Master Series 650W 80+ Bronze",
+    "brand": "Cooler Master",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 850000
+  },
+  {
+    "name": "Seasonic Series 650W 80+ Bronze",
+    "brand": "Seasonic",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 860000
+  },
+  {
+    "name": "Deepcool Series 650W 80+ Bronze",
+    "brand": "Deepcool",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1010000
+  },
+  {
+    "name": "Aerocool Series 650W 80+ Bronze",
+    "brand": "Aerocool",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 940000
+  },
+  {
+    "name": "Aerocool Series 650W 80+ Bronze",
+    "brand": "Aerocool",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1060000
+  },
+  {
+    "name": "FSP Series 650W 80+ Bronze",
+    "brand": "FSP",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 830000
+  },
+  {
+    "name": "FSP Series 650W 80+ Bronze",
+    "brand": "FSP",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1000000
+  },
+  {
+    "name": "Thermaltake Series 650W 80+ Bronze",
+    "brand": "Thermaltake",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1020000
+  },
+  {
+    "name": "Thermaltake Series 650W 80+ Bronze",
+    "brand": "Thermaltake",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 930000
+  },
+  {
+    "name": "be quiet! Series 650W 80+ Bronze",
+    "brand": "be quiet!",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 850000
+  },
+  {
+    "name": "be quiet! Series 650W 80+ Bronze",
+    "brand": "be quiet!",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 950000
+  },
+  {
+    "name": "NZXT Series 650W 80+ Bronze",
+    "brand": "NZXT",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1040000
+  },
+  {
+    "name": "NZXT Series 650W 80+ Bronze",
+    "brand": "NZXT",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 870000
+  },
+  {
+    "name": "SilverStone Series 650W 80+ Bronze",
+    "brand": "SilverStone",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 930000
+  },
+  {
+    "name": "SilverStone Series 650W 80+ Bronze",
+    "brand": "SilverStone",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 1110000
+  },
+  {
+    "name": "MSI Series 650W 80+ Bronze",
+    "brand": "MSI",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 990000
+  },
+  {
+    "name": "MSI Series 650W 80+ Bronze",
+    "brand": "MSI",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 990000
+  },
+  {
+    "name": "ASUS Series 650W 80+ Bronze",
+    "brand": "ASUS",
+    "wattage": 650,
+    "efficiency": "80+ Bronze",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 1,
+      "pcie8pin": 4,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Non",
+    "price": 950000
+  },
+  {
+    "name": "Corsair Series 750W 80+ Gold",
+    "brand": "Corsair",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1580000
+  },
+  {
+    "name": "Cooler Master Series 750W 80+ Gold",
+    "brand": "Cooler Master",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1680000
+  },
+  {
+    "name": "Seasonic Series 750W 80+ Gold",
+    "brand": "Seasonic",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1740000
+  },
+  {
+    "name": "Seasonic Series 750W 80+ Gold",
+    "brand": "Seasonic",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1820000
+  },
+  {
+    "name": "Deepcool Series 750W 80+ Gold",
+    "brand": "Deepcool",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1570000
+  },
+  {
+    "name": "Deepcool Series 750W 80+ Gold",
+    "brand": "Deepcool",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1580000
+  },
+  {
+    "name": "Aerocool Series 750W 80+ Gold",
+    "brand": "Aerocool",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1430000
+  },
+  {
+    "name": "Aerocool Series 750W 80+ Gold",
+    "brand": "Aerocool",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1540000
+  },
+  {
+    "name": "FSP Series 750W 80+ Gold",
+    "brand": "FSP",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1870000
+  },
+  {
+    "name": "Thermaltake Series 750W 80+ Gold",
+    "brand": "Thermaltake",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1790000
+  },
+  {
+    "name": "Thermaltake Series 750W 80+ Gold",
+    "brand": "Thermaltake",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1410000
+  },
+  {
+    "name": "be quiet! Series 750W 80+ Gold",
+    "brand": "be quiet!",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1400000
+  },
+  {
+    "name": "be quiet! Series 750W 80+ Gold",
+    "brand": "be quiet!",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1590000
+  },
+  {
+    "name": "NZXT Series 750W 80+ Gold",
+    "brand": "NZXT",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1490000
+  },
+  {
+    "name": "NZXT Series 750W 80+ Gold",
+    "brand": "NZXT",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1480000
+  },
+  {
+    "name": "SilverStone Series 750W 80+ Gold",
+    "brand": "SilverStone",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1450000
+  },
+  {
+    "name": "SilverStone Series 750W 80+ Gold",
+    "brand": "SilverStone",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1460000
+  },
+  {
+    "name": "MSI Series 750W 80+ Gold",
+    "brand": "MSI",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1830000
+  },
+  {
+    "name": "MSI Series 750W 80+ Gold",
+    "brand": "MSI",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1900000
+  },
+  {
+    "name": "ASUS Series 750W 80+ Gold",
+    "brand": "ASUS",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 0,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1660000
+  },
+  {
+    "name": "Corsair Series 850W 80+ Gold",
+    "brand": "Corsair",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1640000
+  },
+  {
+    "name": "Corsair Series 850W 80+ Gold",
+    "brand": "Corsair",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1880000
+  },
+  {
+    "name": "Cooler Master Series 850W 80+ Gold",
+    "brand": "Cooler Master",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1750000
+  },
+  {
+    "name": "Seasonic Series 850W 80+ Gold",
+    "brand": "Seasonic",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1870000
+  },
+  {
+    "name": "Seasonic Series 850W 80+ Gold",
+    "brand": "Seasonic",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1790000
+  },
+  {
+    "name": "Deepcool Series 850W 80+ Gold",
+    "brand": "Deepcool",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2020000
+  },
+  {
+    "name": "Deepcool Series 850W 80+ Gold",
+    "brand": "Deepcool",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1710000
+  },
+  {
+    "name": "Aerocool Series 850W 80+ Gold",
+    "brand": "Aerocool",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1710000
+  },
+  {
+    "name": "Aerocool Series 850W 80+ Gold",
+    "brand": "Aerocool",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2130000
+  },
+  {
+    "name": "FSP Series 850W 80+ Gold",
+    "brand": "FSP",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1830000
+  },
+  {
+    "name": "FSP Series 850W 80+ Gold",
+    "brand": "FSP",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2010000
+  },
+  {
+    "name": "Thermaltake Series 850W 80+ Gold",
+    "brand": "Thermaltake",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1680000
+  },
+  {
+    "name": "be quiet! Series 850W 80+ Gold",
+    "brand": "be quiet!",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1690000
+  },
+  {
+    "name": "NZXT Series 850W 80+ Gold",
+    "brand": "NZXT",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2040000
+  },
+  {
+    "name": "NZXT Series 850W 80+ Gold",
+    "brand": "NZXT",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1660000
+  },
+  {
+    "name": "SilverStone Series 850W 80+ Gold",
+    "brand": "SilverStone",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2080000
+  },
+  {
+    "name": "MSI Series 850W 80+ Gold",
+    "brand": "MSI",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1960000
+  },
+  {
+    "name": "ASUS Series 850W 80+ Gold",
+    "brand": "ASUS",
+    "wattage": 850,
+    "efficiency": "80+ Gold",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 6,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 1820000
+  },
+  {
+    "name": "Corsair Series 1000W 80+ Platinum",
+    "brand": "Corsair",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2970000
+  },
+  {
+    "name": "Cooler Master Series 1000W 80+ Platinum",
+    "brand": "Cooler Master",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2560000
+  },
+  {
+    "name": "Seasonic Series 1000W 80+ Platinum",
+    "brand": "Seasonic",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2720000
+  },
+  {
+    "name": "Seasonic Series 1000W 80+ Platinum",
+    "brand": "Seasonic",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2840000
+  },
+  {
+    "name": "Deepcool Series 1000W 80+ Platinum",
+    "brand": "Deepcool",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3230000
+  },
+  {
+    "name": "Aerocool Series 1000W 80+ Platinum",
+    "brand": "Aerocool",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3000000
+  },
+  {
+    "name": "FSP Series 1000W 80+ Platinum",
+    "brand": "FSP",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3410000
+  },
+  {
+    "name": "FSP Series 1000W 80+ Platinum",
+    "brand": "FSP",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3130000
+  },
+  {
+    "name": "Thermaltake Series 1000W 80+ Platinum",
+    "brand": "Thermaltake",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3350000
+  },
+  {
+    "name": "Thermaltake Series 1000W 80+ Platinum",
+    "brand": "Thermaltake",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2800000
+  },
+  {
+    "name": "be quiet! Series 1000W 80+ Platinum",
+    "brand": "be quiet!",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2590000
+  },
+  {
+    "name": "be quiet! Series 1000W 80+ Platinum",
+    "brand": "be quiet!",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2900000
+  },
+  {
+    "name": "NZXT Series 1000W 80+ Platinum",
+    "brand": "NZXT",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2950000
+  },
+  {
+    "name": "NZXT Series 1000W 80+ Platinum",
+    "brand": "NZXT",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2940000
+  },
+  {
+    "name": "SilverStone Series 1000W 80+ Platinum",
+    "brand": "SilverStone",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2930000
+  },
+  {
+    "name": "SilverStone Series 1000W 80+ Platinum",
+    "brand": "SilverStone",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2800000
+  },
+  {
+    "name": "MSI Series 1000W 80+ Platinum",
+    "brand": "MSI",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3050000
+  },
+  {
+    "name": "ASUS Series 1000W 80+ Platinum",
+    "brand": "ASUS",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3310000
+  },
+  {
+    "name": "ASUS Series 1000W 80+ Platinum",
+    "brand": "ASUS",
+    "wattage": 1000,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 2950000
+  },
+  {
+    "name": "Corsair Series 1200W 80+ Platinum",
+    "brand": "Corsair",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3600000
+  },
+  {
+    "name": "Corsair Series 1200W 80+ Platinum",
+    "brand": "Corsair",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3420000
+  },
+  {
+    "name": "Cooler Master Series 1200W 80+ Platinum",
+    "brand": "Cooler Master",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3890000
+  },
+  {
+    "name": "Cooler Master Series 1200W 80+ Platinum",
+    "brand": "Cooler Master",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 4060000
+  },
+  {
+    "name": "Seasonic Series 1200W 80+ Platinum",
+    "brand": "Seasonic",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3420000
+  },
+  {
+    "name": "Seasonic Series 1200W 80+ Platinum",
+    "brand": "Seasonic",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3080000
+  },
+  {
+    "name": "Deepcool Series 1200W 80+ Platinum",
+    "brand": "Deepcool",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3530000
+  },
+  {
+    "name": "Deepcool Series 1200W 80+ Platinum",
+    "brand": "Deepcool",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3200000
+  },
+  {
+    "name": "Aerocool Series 1200W 80+ Platinum",
+    "brand": "Aerocool",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3460000
+  },
+  {
+    "name": "FSP Series 1200W 80+ Platinum",
+    "brand": "FSP",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3520000
+  },
+  {
+    "name": "Thermaltake Series 1200W 80+ Platinum",
+    "brand": "Thermaltake",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3160000
+  },
+  {
+    "name": "Thermaltake Series 1200W 80+ Platinum",
+    "brand": "Thermaltake",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3390000
+  },
+  {
+    "name": "be quiet! Series 1200W 80+ Platinum",
+    "brand": "be quiet!",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 4110000
+  },
+  {
+    "name": "be quiet! Series 1200W 80+ Platinum",
+    "brand": "be quiet!",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3240000
+  },
+  {
+    "name": "NZXT Series 1200W 80+ Platinum",
+    "brand": "NZXT",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3100000
+  },
+  {
+    "name": "SilverStone Series 1200W 80+ Platinum",
+    "brand": "SilverStone",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3450000
+  },
+  {
+    "name": "SilverStone Series 1200W 80+ Platinum",
+    "brand": "SilverStone",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3480000
+  },
+  {
+    "name": "MSI Series 1200W 80+ Platinum",
+    "brand": "MSI",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3270000
+  },
+  {
+    "name": "ASUS Series 1200W 80+ Platinum",
+    "brand": "ASUS",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3300000
+  },
+  {
+    "name": "ASUS Series 1200W 80+ Platinum",
+    "brand": "ASUS",
+    "wattage": 1200,
+    "efficiency": "80+ Platinum",
+    "formFactor": "ATX",
+    "length": 150,
+    "connectors": {
+      "cpu8pin": 2,
+      "pcie8pin": 8,
+      "pcie12v2x6": 1,
+      "sata": 6,
+      "molex": 2
+    },
+    "modular": "Full",
+    "price": 3920000
+  }
+]

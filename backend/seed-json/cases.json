@@ -1,0 +1,1445 @@
+[
+  {
+    "name": "Corsair Model 832",
+    "brand": "Corsair",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1720000
+  },
+  {
+    "name": "Corsair Model 534",
+    "brand": "Corsair",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1560000
+  },
+  {
+    "name": "Corsair Model 132",
+    "brand": "Corsair",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1280000
+  },
+  {
+    "name": "Corsair Model 734",
+    "brand": "Corsair",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1880000
+  },
+  {
+    "name": "Corsair Model 787",
+    "brand": "Corsair",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1290000
+  },
+  {
+    "name": "NZXT Model 117",
+    "brand": "NZXT",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1940000
+  },
+  {
+    "name": "NZXT Model 277",
+    "brand": "NZXT",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1500000
+  },
+  {
+    "name": "NZXT Model 560",
+    "brand": "NZXT",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1580000
+  },
+  {
+    "name": "NZXT Model 668",
+    "brand": "NZXT",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1440000
+  },
+  {
+    "name": "NZXT Model 229",
+    "brand": "NZXT",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1080000
+  },
+  {
+    "name": "Cooler Master Model 423",
+    "brand": "Cooler Master",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1810000
+  },
+  {
+    "name": "Cooler Master Model 851",
+    "brand": "Cooler Master",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1110000
+  },
+  {
+    "name": "Cooler Master Model 248",
+    "brand": "Cooler Master",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1190000
+  },
+  {
+    "name": "Cooler Master Model 728",
+    "brand": "Cooler Master",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1860000
+  },
+  {
+    "name": "Cooler Master Model 692",
+    "brand": "Cooler Master",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1510000
+  },
+  {
+    "name": "Thermaltake Model 784",
+    "brand": "Thermaltake",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1120000
+  },
+  {
+    "name": "Thermaltake Model 817",
+    "brand": "Thermaltake",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1890000
+  },
+  {
+    "name": "Thermaltake Model 216",
+    "brand": "Thermaltake",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1540000
+  },
+  {
+    "name": "Thermaltake Model 158",
+    "brand": "Thermaltake",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1490000
+  },
+  {
+    "name": "Thermaltake Model 293",
+    "brand": "Thermaltake",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1070000
+  },
+  {
+    "name": "Deepcool Model 900",
+    "brand": "Deepcool",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1610000
+  },
+  {
+    "name": "Deepcool Model 622",
+    "brand": "Deepcool",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1210000
+  },
+  {
+    "name": "Deepcool Model 295",
+    "brand": "Deepcool",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1620000
+  },
+  {
+    "name": "Deepcool Model 107",
+    "brand": "Deepcool",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1860000
+  },
+  {
+    "name": "Deepcool Model 668",
+    "brand": "Deepcool",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1230000
+  },
+  {
+    "name": "Cube Gaming Model 221",
+    "brand": "Cube Gaming",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 290000
+  },
+  {
+    "name": "Cube Gaming Model 192",
+    "brand": "Cube Gaming",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 350000
+  },
+  {
+    "name": "Cube Gaming Model 734",
+    "brand": "Cube Gaming",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 470000
+  },
+  {
+    "name": "Cube Gaming Model 149",
+    "brand": "Cube Gaming",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 380000
+  },
+  {
+    "name": "Cube Gaming Model 868",
+    "brand": "Cube Gaming",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 370000
+  },
+  {
+    "name": "Paradox Model 191",
+    "brand": "Paradox",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 420000
+  },
+  {
+    "name": "Paradox Model 714",
+    "brand": "Paradox",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 280000
+  },
+  {
+    "name": "Paradox Model 488",
+    "brand": "Paradox",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 510000
+  },
+  {
+    "name": "Paradox Model 309",
+    "brand": "Paradox",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 340000
+  },
+  {
+    "name": "Paradox Model 302",
+    "brand": "Paradox",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 410000
+  },
+  {
+    "name": "Armaggeddon Model 293",
+    "brand": "Armaggeddon",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 300000
+  },
+  {
+    "name": "Armaggeddon Model 208",
+    "brand": "Armaggeddon",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 430000
+  },
+  {
+    "name": "Armaggeddon Model 319",
+    "brand": "Armaggeddon",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 320000
+  },
+  {
+    "name": "Armaggeddon Model 701",
+    "brand": "Armaggeddon",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 360000
+  },
+  {
+    "name": "Armaggeddon Model 906",
+    "brand": "Armaggeddon",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 370000
+  },
+  {
+    "name": "Fractal Design Model 889",
+    "brand": "Fractal Design",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1240000
+  },
+  {
+    "name": "Fractal Design Model 512",
+    "brand": "Fractal Design",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1390000
+  },
+  {
+    "name": "Fractal Design Model 225",
+    "brand": "Fractal Design",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1190000
+  },
+  {
+    "name": "Fractal Design Model 950",
+    "brand": "Fractal Design",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1840000
+  },
+  {
+    "name": "Fractal Design Model 355",
+    "brand": "Fractal Design",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1540000
+  },
+  {
+    "name": "Lian Li Model 848",
+    "brand": "Lian Li",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1530000
+  },
+  {
+    "name": "Lian Li Model 877",
+    "brand": "Lian Li",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1750000
+  },
+  {
+    "name": "Lian Li Model 492",
+    "brand": "Lian Li",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1820000
+  },
+  {
+    "name": "Lian Li Model 262",
+    "brand": "Lian Li",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1190000
+  },
+  {
+    "name": "Lian Li Model 537",
+    "brand": "Lian Li",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1350000
+  },
+  {
+    "name": "Phanteks Model 931",
+    "brand": "Phanteks",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1630000
+  },
+  {
+    "name": "Phanteks Model 332",
+    "brand": "Phanteks",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1330000
+  },
+  {
+    "name": "Phanteks Model 957",
+    "brand": "Phanteks",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1090000
+  },
+  {
+    "name": "Phanteks Model 822",
+    "brand": "Phanteks",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1360000
+  },
+  {
+    "name": "Phanteks Model 310",
+    "brand": "Phanteks",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1530000
+  },
+  {
+    "name": "Tecware Model 291",
+    "brand": "Tecware",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 520000
+  },
+  {
+    "name": "Tecware Model 209",
+    "brand": "Tecware",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 290000
+  },
+  {
+    "name": "Tecware Model 115",
+    "brand": "Tecware",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 330000
+  },
+  {
+    "name": "Tecware Model 197",
+    "brand": "Tecware",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 370000
+  },
+  {
+    "name": "Tecware Model 152",
+    "brand": "Tecware",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 430000
+  },
+  {
+    "name": "Montech Model 547",
+    "brand": "Montech",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1870000
+  },
+  {
+    "name": "Montech Model 462",
+    "brand": "Montech",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1160000
+  },
+  {
+    "name": "Montech Model 793",
+    "brand": "Montech",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1760000
+  },
+  {
+    "name": "Montech Model 827",
+    "brand": "Montech",
+    "formFactors": [
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mini Tower",
+    "maxGpuLength": 300,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1140000
+  },
+  {
+    "name": "Montech Model 580",
+    "brand": "Montech",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "Mini-ITX"
+    ],
+    "type": "Mid Tower",
+    "maxGpuLength": 360,
+    "maxCpuCoolerHeight": 165,
+    "maxPsuLength": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "driveBays": {
+      "threePointFive": 2,
+      "twoPointFive": 2
+    },
+    "price": 1250000
+  }
+]

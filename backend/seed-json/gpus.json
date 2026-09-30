@@ -1,0 +1,4082 @@
+[
+  {
+    "name": "ASUS GeForce GT 730 Super JetStream",
+    "brand": "ASUS",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 182,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 640000
+  },
+  {
+    "name": "ASUS GeForce GT 730 Dual",
+    "brand": "ASUS",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 186,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 670000
+  },
+  {
+    "name": "MSI GeForce GT 730 Fighter",
+    "brand": "MSI",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 163,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 530000
+  },
+  {
+    "name": "MSI GeForce GT 730 Ventus 2X",
+    "brand": "MSI",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 163,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 680000
+  },
+  {
+    "name": "Gigabyte GeForce GT 730 Dual",
+    "brand": "Gigabyte",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 170,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 580000
+  },
+  {
+    "name": "Gigabyte GeForce GT 730 Twin Edge",
+    "brand": "Gigabyte",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 173,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 630000
+  },
+  {
+    "name": "Zotac GeForce GT 730 iGame",
+    "brand": "Zotac",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 153,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 630000
+  },
+  {
+    "name": "Zotac GeForce GT 730 Eagle",
+    "brand": "Zotac",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 184,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 570000
+  },
+  {
+    "name": "Galax GeForce GT 730 Ichill",
+    "brand": "Galax",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 169,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 690000
+  },
+  {
+    "name": "Galax GeForce GT 730 Twin Edge",
+    "brand": "Galax",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 165,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 640000
+  },
+  {
+    "name": "Colorful GeForce GT 730 Twin Edge",
+    "brand": "Colorful",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 173,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 670000
+  },
+  {
+    "name": "Colorful GeForce GT 730 Gaming OC",
+    "brand": "Colorful",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 159,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 550000
+  },
+  {
+    "name": "Palit GeForce GT 730 Ichill",
+    "brand": "Palit",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 158,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 640000
+  },
+  {
+    "name": "Palit GeForce GT 730 Twin Edge",
+    "brand": "Palit",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 187,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 620000
+  },
+  {
+    "name": "Inno3D GeForce GT 730 Pulse",
+    "brand": "Inno3D",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 187,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 620000
+  },
+  {
+    "name": "Inno3D GeForce GT 730 Gaming OC",
+    "brand": "Inno3D",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 168,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 38,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 2.0",
+    "price": 680000
+  },
+  {
+    "name": "ASUS GeForce GTX 750 Ti Challenger",
+    "brand": "ASUS",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 184,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 430000
+  },
+  {
+    "name": "ASUS GeForce GTX 750 Ti Eagle",
+    "brand": "ASUS",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 155,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 440000
+  },
+  {
+    "name": "MSI GeForce GTX 750 Ti Gaming OC",
+    "brand": "MSI",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 184,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 440000
+  },
+  {
+    "name": "MSI GeForce GTX 750 Ti Super JetStream",
+    "brand": "MSI",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 186,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 550000
+  },
+  {
+    "name": "Gigabyte GeForce GTX 750 Ti Super JetStream",
+    "brand": "Gigabyte",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 162,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 550000
+  },
+  {
+    "name": "Gigabyte GeForce GTX 750 Ti Challenger",
+    "brand": "Gigabyte",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 167,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 570000
+  },
+  {
+    "name": "Zotac GeForce GTX 750 Ti Super JetStream",
+    "brand": "Zotac",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 160,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 510000
+  },
+  {
+    "name": "Zotac GeForce GTX 750 Ti Ventus 2X",
+    "brand": "Zotac",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 157,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 460000
+  },
+  {
+    "name": "Galax GeForce GTX 750 Ti Pulse",
+    "brand": "Galax",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 180,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 550000
+  },
+  {
+    "name": "Galax GeForce GTX 750 Ti Pulse",
+    "brand": "Galax",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 155,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 550000
+  },
+  {
+    "name": "Colorful GeForce GTX 750 Ti Gaming OC",
+    "brand": "Colorful",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 175,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 530000
+  },
+  {
+    "name": "Colorful GeForce GTX 750 Ti Eagle",
+    "brand": "Colorful",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 158,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 510000
+  },
+  {
+    "name": "Palit GeForce GTX 750 Ti Fighter",
+    "brand": "Palit",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 189,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 570000
+  },
+  {
+    "name": "Palit GeForce GTX 750 Ti Fighter",
+    "brand": "Palit",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 182,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 570000
+  },
+  {
+    "name": "Inno3D GeForce GTX 750 Ti iGame",
+    "brand": "Inno3D",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 182,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 470000
+  },
+  {
+    "name": "Inno3D GeForce GTX 750 Ti Dual",
+    "brand": "Inno3D",
+    "vram": 2,
+    "memoryType": "GDDR5",
+    "length": 150,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 60,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 450000
+  },
+  {
+    "name": "ASUS GeForce GTX 1050 Ti iGame",
+    "brand": "ASUS",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 189,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1000000
+  },
+  {
+    "name": "ASUS GeForce GTX 1050 Ti Ichill",
+    "brand": "ASUS",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 158,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1110000
+  },
+  {
+    "name": "MSI GeForce GTX 1050 Ti Challenger",
+    "brand": "MSI",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 165,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1130000
+  },
+  {
+    "name": "MSI GeForce GTX 1050 Ti Fighter",
+    "brand": "MSI",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 154,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1120000
+  },
+  {
+    "name": "Gigabyte GeForce GTX 1050 Ti Eagle",
+    "brand": "Gigabyte",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 169,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 970000
+  },
+  {
+    "name": "Gigabyte GeForce GTX 1050 Ti Eagle",
+    "brand": "Gigabyte",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 164,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1130000
+  },
+  {
+    "name": "Zotac GeForce GTX 1050 Ti Pulse",
+    "brand": "Zotac",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 188,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1250000
+  },
+  {
+    "name": "Zotac GeForce GTX 1050 Ti Ventus 2X",
+    "brand": "Zotac",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 174,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1060000
+  },
+  {
+    "name": "Galax GeForce GTX 1050 Ti Twin Edge",
+    "brand": "Galax",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 181,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1040000
+  },
+  {
+    "name": "Galax GeForce GTX 1050 Ti Dual",
+    "brand": "Galax",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 164,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1130000
+  },
+  {
+    "name": "Colorful GeForce GTX 1050 Ti Fighter",
+    "brand": "Colorful",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 163,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1260000
+  },
+  {
+    "name": "Colorful GeForce GTX 1050 Ti Super JetStream",
+    "brand": "Colorful",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 168,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1080000
+  },
+  {
+    "name": "Palit GeForce GTX 1050 Ti Ventus 2X",
+    "brand": "Palit",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 165,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1250000
+  },
+  {
+    "name": "Palit GeForce GTX 1050 Ti Super JetStream",
+    "brand": "Palit",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 189,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1090000
+  },
+  {
+    "name": "Inno3D GeForce GTX 1050 Ti Twin Edge",
+    "brand": "Inno3D",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 184,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1150000
+  },
+  {
+    "name": "Inno3D GeForce GTX 1050 Ti Fighter",
+    "brand": "Inno3D",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 153,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 75,
+    "recommendedPsu": 300,
+    "powerConnectors": [],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 980000
+  },
+  {
+    "name": "ASUS Radeon RX 570 Challenger",
+    "brand": "ASUS",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 258,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 830000
+  },
+  {
+    "name": "ASUS Radeon RX 570 Fighter",
+    "brand": "ASUS",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 251,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 820000
+  },
+  {
+    "name": "MSI Radeon RX 570 iGame",
+    "brand": "MSI",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 278,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 810000
+  },
+  {
+    "name": "MSI Radeon RX 570 Dual",
+    "brand": "MSI",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 253,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 920000
+  },
+  {
+    "name": "Gigabyte Radeon RX 570 Ventus 2X",
+    "brand": "Gigabyte",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 266,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 880000
+  },
+  {
+    "name": "Gigabyte Radeon RX 570 iGame",
+    "brand": "Gigabyte",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 250,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 950000
+  },
+  {
+    "name": "Sapphire Radeon RX 570 Dual",
+    "brand": "Sapphire",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 245,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 910000
+  },
+  {
+    "name": "Sapphire Radeon RX 570 Twin Edge",
+    "brand": "Sapphire",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 258,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 780000
+  },
+  {
+    "name": "PowerColor Radeon RX 570 Super JetStream",
+    "brand": "PowerColor",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 252,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 810000
+  },
+  {
+    "name": "PowerColor Radeon RX 570 Dual",
+    "brand": "PowerColor",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 249,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 820000
+  },
+  {
+    "name": "ASRock Radeon RX 570 Twin Edge",
+    "brand": "ASRock",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 249,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 900000
+  },
+  {
+    "name": "ASRock Radeon RX 570 Eagle",
+    "brand": "ASRock",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 254,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 820000
+  },
+  {
+    "name": "XFX Radeon RX 570 Eagle",
+    "brand": "XFX",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 277,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 800000
+  },
+  {
+    "name": "XFX Radeon RX 570 Ichill",
+    "brand": "XFX",
+    "vram": 4,
+    "memoryType": "GDDR5",
+    "length": 276,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 150,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 850000
+  },
+  {
+    "name": "ASUS Radeon RX 580 Fighter",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 272,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1340000
+  },
+  {
+    "name": "ASUS Radeon RX 580 Pulse",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 252,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1350000
+  },
+  {
+    "name": "MSI Radeon RX 580 iGame",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 245,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1330000
+  },
+  {
+    "name": "MSI Radeon RX 580 Twin Edge",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 270,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1110000
+  },
+  {
+    "name": "Gigabyte Radeon RX 580 Ventus 2X",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 262,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1190000
+  },
+  {
+    "name": "Gigabyte Radeon RX 580 Super JetStream",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 244,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1060000
+  },
+  {
+    "name": "Sapphire Radeon RX 580 Challenger",
+    "brand": "Sapphire",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 265,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1290000
+  },
+  {
+    "name": "Sapphire Radeon RX 580 Twin Edge",
+    "brand": "Sapphire",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 248,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1090000
+  },
+  {
+    "name": "PowerColor Radeon RX 580 Ichill",
+    "brand": "PowerColor",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 257,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1230000
+  },
+  {
+    "name": "PowerColor Radeon RX 580 Gaming OC",
+    "brand": "PowerColor",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 255,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1110000
+  },
+  {
+    "name": "ASRock Radeon RX 580 Ventus 2X",
+    "brand": "ASRock",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 250,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1240000
+  },
+  {
+    "name": "ASRock Radeon RX 580 Super JetStream",
+    "brand": "ASRock",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 265,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1030000
+  },
+  {
+    "name": "XFX Radeon RX 580 Eagle",
+    "brand": "XFX",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 245,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1320000
+  },
+  {
+    "name": "XFX Radeon RX 580 Challenger",
+    "brand": "XFX",
+    "vram": 8,
+    "memoryType": "GDDR5",
+    "length": 247,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 185,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 1340000
+  },
+  {
+    "name": "ASUS GeForce GTX 1660 SUPER Challenger",
+    "brand": "ASUS",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 247,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3210000
+  },
+  {
+    "name": "ASUS GeForce GTX 1660 SUPER Challenger",
+    "brand": "ASUS",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 269,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2900000
+  },
+  {
+    "name": "MSI GeForce GTX 1660 SUPER Pulse",
+    "brand": "MSI",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 268,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2540000
+  },
+  {
+    "name": "MSI GeForce GTX 1660 SUPER Dual",
+    "brand": "MSI",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 277,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2830000
+  },
+  {
+    "name": "Gigabyte GeForce GTX 1660 SUPER Eagle",
+    "brand": "Gigabyte",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 242,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2670000
+  },
+  {
+    "name": "Gigabyte GeForce GTX 1660 SUPER Challenger",
+    "brand": "Gigabyte",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 262,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3000000
+  },
+  {
+    "name": "Zotac GeForce GTX 1660 SUPER Ventus 2X",
+    "brand": "Zotac",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 249,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2520000
+  },
+  {
+    "name": "Zotac GeForce GTX 1660 SUPER Gaming OC",
+    "brand": "Zotac",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 244,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3050000
+  },
+  {
+    "name": "Galax GeForce GTX 1660 SUPER Dual",
+    "brand": "Galax",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 274,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2960000
+  },
+  {
+    "name": "Galax GeForce GTX 1660 SUPER Twin Edge",
+    "brand": "Galax",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 249,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3110000
+  },
+  {
+    "name": "Colorful GeForce GTX 1660 SUPER Twin Edge",
+    "brand": "Colorful",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 247,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2540000
+  },
+  {
+    "name": "Colorful GeForce GTX 1660 SUPER Gaming OC",
+    "brand": "Colorful",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 244,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3150000
+  },
+  {
+    "name": "Palit GeForce GTX 1660 SUPER Ichill",
+    "brand": "Palit",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 258,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3180000
+  },
+  {
+    "name": "Palit GeForce GTX 1660 SUPER Gaming OC",
+    "brand": "Palit",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 266,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3130000
+  },
+  {
+    "name": "Inno3D GeForce GTX 1660 SUPER Pulse",
+    "brand": "Inno3D",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 253,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2410000
+  },
+  {
+    "name": "Inno3D GeForce GTX 1660 SUPER Pulse",
+    "brand": "Inno3D",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 248,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 125,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3160000
+  },
+  {
+    "name": "ASUS GeForce RTX 2060 Pulse",
+    "brand": "ASUS",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 244,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3380000
+  },
+  {
+    "name": "ASUS GeForce RTX 2060 Eagle",
+    "brand": "ASUS",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 244,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3580000
+  },
+  {
+    "name": "MSI GeForce RTX 2060 Ventus 2X",
+    "brand": "MSI",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 262,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3140000
+  },
+  {
+    "name": "MSI GeForce RTX 2060 Ventus 2X",
+    "brand": "MSI",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 258,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3130000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 2060 Ventus 2X",
+    "brand": "Gigabyte",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 270,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3370000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 2060 Ichill",
+    "brand": "Gigabyte",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 275,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3310000
+  },
+  {
+    "name": "Zotac GeForce RTX 2060 Pulse",
+    "brand": "Zotac",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 276,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3370000
+  },
+  {
+    "name": "Zotac GeForce RTX 2060 Challenger",
+    "brand": "Zotac",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 270,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3090000
+  },
+  {
+    "name": "Galax GeForce RTX 2060 Challenger",
+    "brand": "Galax",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 279,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3500000
+  },
+  {
+    "name": "Galax GeForce RTX 2060 Gaming OC",
+    "brand": "Galax",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 279,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3490000
+  },
+  {
+    "name": "Colorful GeForce RTX 2060 Eagle",
+    "brand": "Colorful",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 241,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3500000
+  },
+  {
+    "name": "Colorful GeForce RTX 2060 Challenger",
+    "brand": "Colorful",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 270,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3460000
+  },
+  {
+    "name": "Palit GeForce RTX 2060 Ichill",
+    "brand": "Palit",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 248,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2970000
+  },
+  {
+    "name": "Palit GeForce RTX 2060 iGame",
+    "brand": "Palit",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 249,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3130000
+  },
+  {
+    "name": "Inno3D GeForce RTX 2060 Ichill",
+    "brand": "Inno3D",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 270,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 3590000
+  },
+  {
+    "name": "Inno3D GeForce RTX 2060 iGame",
+    "brand": "Inno3D",
+    "vram": 6,
+    "memoryType": "GDDR6",
+    "length": 263,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 160,
+    "recommendedPsu": 500,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 3.0",
+    "price": 2980000
+  },
+  {
+    "name": "ASUS GeForce RTX 3060 Twin Edge",
+    "brand": "ASUS",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 269,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4490000
+  },
+  {
+    "name": "ASUS GeForce RTX 3060 Super JetStream",
+    "brand": "ASUS",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 262,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4600000
+  },
+  {
+    "name": "MSI GeForce RTX 3060 Challenger",
+    "brand": "MSI",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 271,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4310000
+  },
+  {
+    "name": "MSI GeForce RTX 3060 Ventus 2X",
+    "brand": "MSI",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 253,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4960000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Ichill",
+    "brand": "Gigabyte",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 260,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4470000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Super JetStream",
+    "brand": "Gigabyte",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 250,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4410000
+  },
+  {
+    "name": "Zotac GeForce RTX 3060 Twin Edge",
+    "brand": "Zotac",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 255,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4740000
+  },
+  {
+    "name": "Zotac GeForce RTX 3060 Pulse",
+    "brand": "Zotac",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 255,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5100000
+  },
+  {
+    "name": "Galax GeForce RTX 3060 Super JetStream",
+    "brand": "Galax",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 243,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5150000
+  },
+  {
+    "name": "Galax GeForce RTX 3060 Ichill",
+    "brand": "Galax",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 250,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4890000
+  },
+  {
+    "name": "Colorful GeForce RTX 3060 Fighter",
+    "brand": "Colorful",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 251,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4200000
+  },
+  {
+    "name": "Colorful GeForce RTX 3060 Twin Edge",
+    "brand": "Colorful",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 267,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3950000
+  },
+  {
+    "name": "Palit GeForce RTX 3060 Super JetStream",
+    "brand": "Palit",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 265,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4920000
+  },
+  {
+    "name": "Palit GeForce RTX 3060 Gaming OC",
+    "brand": "Palit",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 252,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5040000
+  },
+  {
+    "name": "Inno3D GeForce RTX 3060 Super JetStream",
+    "brand": "Inno3D",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 271,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4610000
+  },
+  {
+    "name": "Inno3D GeForce RTX 3060 Ventus 2X",
+    "brand": "Inno3D",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 263,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 170,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4030000
+  },
+  {
+    "name": "ASUS GeForce RTX 3060 Ti Dual",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 276,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5120000
+  },
+  {
+    "name": "ASUS GeForce RTX 3060 Ti Challenger",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 279,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5560000
+  },
+  {
+    "name": "MSI GeForce RTX 3060 Ti Ichill",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 279,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5380000
+  },
+  {
+    "name": "MSI GeForce RTX 3060 Ti Challenger",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 250,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6400000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Ti Ventus 2X",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 272,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5620000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Ti Ichill",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 248,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6110000
+  },
+  {
+    "name": "Zotac GeForce RTX 3060 Ti Eagle",
+    "brand": "Zotac",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 276,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6540000
+  },
+  {
+    "name": "Zotac GeForce RTX 3060 Ti Super JetStream",
+    "brand": "Zotac",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 261,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6230000
+  },
+  {
+    "name": "Galax GeForce RTX 3060 Ti Fighter",
+    "brand": "Galax",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 265,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6220000
+  },
+  {
+    "name": "Galax GeForce RTX 3060 Ti iGame",
+    "brand": "Galax",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 273,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6550000
+  },
+  {
+    "name": "Colorful GeForce RTX 3060 Ti Challenger",
+    "brand": "Colorful",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 270,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6520000
+  },
+  {
+    "name": "Colorful GeForce RTX 3060 Ti Challenger",
+    "brand": "Colorful",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 273,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6180000
+  },
+  {
+    "name": "Palit GeForce RTX 3060 Ti Gaming OC",
+    "brand": "Palit",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 273,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6220000
+  },
+  {
+    "name": "Palit GeForce RTX 3060 Ti Super JetStream",
+    "brand": "Palit",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 260,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6350000
+  },
+  {
+    "name": "Inno3D GeForce RTX 3060 Ti Ventus 2X",
+    "brand": "Inno3D",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 245,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5260000
+  },
+  {
+    "name": "Inno3D GeForce RTX 3060 Ti iGame",
+    "brand": "Inno3D",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 270,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 200,
+    "recommendedPsu": 600,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5740000
+  },
+  {
+    "name": "ASUS GeForce RTX 4060 Eagle",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 264,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5060000
+  },
+  {
+    "name": "ASUS GeForce RTX 4060 Challenger",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 246,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4230000
+  },
+  {
+    "name": "MSI GeForce RTX 4060 Ventus 2X",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 279,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4620000
+  },
+  {
+    "name": "MSI GeForce RTX 4060 Eagle",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 241,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4430000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 4060 Super JetStream",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 271,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5270000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 4060 Ichill",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 257,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5620000
+  },
+  {
+    "name": "Zotac GeForce RTX 4060 Pulse",
+    "brand": "Zotac",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 260,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5570000
+  },
+  {
+    "name": "Zotac GeForce RTX 4060 Challenger",
+    "brand": "Zotac",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 245,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4700000
+  },
+  {
+    "name": "Galax GeForce RTX 4060 Ventus 2X",
+    "brand": "Galax",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 275,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5430000
+  },
+  {
+    "name": "Galax GeForce RTX 4060 Challenger",
+    "brand": "Galax",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 253,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5330000
+  },
+  {
+    "name": "Colorful GeForce RTX 4060 Super JetStream",
+    "brand": "Colorful",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 252,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5610000
+  },
+  {
+    "name": "Colorful GeForce RTX 4060 Super JetStream",
+    "brand": "Colorful",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 274,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5480000
+  },
+  {
+    "name": "Palit GeForce RTX 4060 Ichill",
+    "brand": "Palit",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 275,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4810000
+  },
+  {
+    "name": "Palit GeForce RTX 4060 Challenger",
+    "brand": "Palit",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 278,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5360000
+  },
+  {
+    "name": "Inno3D GeForce RTX 4060 Eagle",
+    "brand": "Inno3D",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 253,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4590000
+  },
+  {
+    "name": "Inno3D GeForce RTX 4060 Ichill",
+    "brand": "Inno3D",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 245,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 115,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4730000
+  },
+  {
+    "name": "ASUS GeForce RTX 4070 SUPER Twin Edge",
+    "brand": "ASUS",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 321,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 11370000
+  },
+  {
+    "name": "ASUS GeForce RTX 4070 SUPER Challenger",
+    "brand": "ASUS",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 294,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 10130000
+  },
+  {
+    "name": "MSI GeForce RTX 4070 SUPER Dual",
+    "brand": "MSI",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 305,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 11370000
+  },
+  {
+    "name": "MSI GeForce RTX 4070 SUPER Ichill",
+    "brand": "MSI",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 319,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 10940000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 4070 SUPER Dual",
+    "brand": "Gigabyte",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 315,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 10020000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 4070 SUPER Fighter",
+    "brand": "Gigabyte",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 308,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 9240000
+  },
+  {
+    "name": "Zotac GeForce RTX 4070 SUPER Eagle",
+    "brand": "Zotac",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 322,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 10080000
+  },
+  {
+    "name": "Zotac GeForce RTX 4070 SUPER Pulse",
+    "brand": "Zotac",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 287,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 11990000
+  },
+  {
+    "name": "Galax GeForce RTX 4070 SUPER Pulse",
+    "brand": "Galax",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 318,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 8970000
+  },
+  {
+    "name": "Galax GeForce RTX 4070 SUPER Twin Edge",
+    "brand": "Galax",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 291,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 9960000
+  },
+  {
+    "name": "Colorful GeForce RTX 4070 SUPER Ventus 2X",
+    "brand": "Colorful",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 312,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 11820000
+  },
+  {
+    "name": "Colorful GeForce RTX 4070 SUPER Fighter",
+    "brand": "Colorful",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 299,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 9020000
+  },
+  {
+    "name": "Palit GeForce RTX 4070 SUPER Twin Edge",
+    "brand": "Palit",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 323,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 9730000
+  },
+  {
+    "name": "Palit GeForce RTX 4070 SUPER Eagle",
+    "brand": "Palit",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 285,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 9860000
+  },
+  {
+    "name": "Inno3D GeForce RTX 4070 SUPER Challenger",
+    "brand": "Inno3D",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 305,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 11360000
+  },
+  {
+    "name": "Inno3D GeForce RTX 4070 SUPER Pulse",
+    "brand": "Inno3D",
+    "vram": 12,
+    "memoryType": "GDDR6X",
+    "length": 288,
+    "height": 112,
+    "slotWidth": 2,
+    "tdp": 220,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 11310000
+  },
+  {
+    "name": "ASUS GeForce RTX 4090 iGame",
+    "brand": "ASUS",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 363,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 38040000
+  },
+  {
+    "name": "ASUS GeForce RTX 4090 Twin Edge",
+    "brand": "ASUS",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 358,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 35310000
+  },
+  {
+    "name": "MSI GeForce RTX 4090 Gaming OC",
+    "brand": "MSI",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 354,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 32070000
+  },
+  {
+    "name": "MSI GeForce RTX 4090 Twin Edge",
+    "brand": "MSI",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 352,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 37340000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 4090 Super JetStream",
+    "brand": "Gigabyte",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 360,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 35200000
+  },
+  {
+    "name": "Gigabyte GeForce RTX 4090 Ventus 2X",
+    "brand": "Gigabyte",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 338,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 39150000
+  },
+  {
+    "name": "Zotac GeForce RTX 4090 Pulse",
+    "brand": "Zotac",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 368,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 33830000
+  },
+  {
+    "name": "Zotac GeForce RTX 4090 Challenger",
+    "brand": "Zotac",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 350,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 37950000
+  },
+  {
+    "name": "Galax GeForce RTX 4090 Eagle",
+    "brand": "Galax",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 340,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 29810000
+  },
+  {
+    "name": "Galax GeForce RTX 4090 Challenger",
+    "brand": "Galax",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 360,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 30550000
+  },
+  {
+    "name": "Colorful GeForce RTX 4090 Ventus 2X",
+    "brand": "Colorful",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 372,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 30380000
+  },
+  {
+    "name": "Colorful GeForce RTX 4090 Challenger",
+    "brand": "Colorful",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 370,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 36790000
+  },
+  {
+    "name": "Palit GeForce RTX 4090 Fighter",
+    "brand": "Palit",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 367,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 31790000
+  },
+  {
+    "name": "Palit GeForce RTX 4090 Dual",
+    "brand": "Palit",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 343,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 30840000
+  },
+  {
+    "name": "Inno3D GeForce RTX 4090 Super JetStream",
+    "brand": "Inno3D",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 346,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 36400000
+  },
+  {
+    "name": "Inno3D GeForce RTX 4090 Pulse",
+    "brand": "Inno3D",
+    "vram": 24,
+    "memoryType": "GDDR6X",
+    "length": 358,
+    "height": 140,
+    "slotWidth": 3,
+    "tdp": 450,
+    "recommendedPsu": 850,
+    "powerConnectors": [
+      "12V-2x6"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 32630000
+  },
+  {
+    "name": "ASUS Radeon RX 6600 Ventus 2X",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 228,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3420000
+  },
+  {
+    "name": "ASUS Radeon RX 6600 Super JetStream",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 213,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3310000
+  },
+  {
+    "name": "MSI Radeon RX 6600 Eagle",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 232,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3150000
+  },
+  {
+    "name": "MSI Radeon RX 6600 Twin Edge",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 236,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3400000
+  },
+  {
+    "name": "Gigabyte Radeon RX 6600 Ventus 2X",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 201,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 2870000
+  },
+  {
+    "name": "Gigabyte Radeon RX 6600 Dual",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 210,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 2850000
+  },
+  {
+    "name": "Sapphire Radeon RX 6600 Ventus 2X",
+    "brand": "Sapphire",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 219,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3160000
+  },
+  {
+    "name": "Sapphire Radeon RX 6600 Ichill",
+    "brand": "Sapphire",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 208,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3600000
+  },
+  {
+    "name": "PowerColor Radeon RX 6600 Fighter",
+    "brand": "PowerColor",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 206,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3350000
+  },
+  {
+    "name": "PowerColor Radeon RX 6600 Pulse",
+    "brand": "PowerColor",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 217,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3010000
+  },
+  {
+    "name": "ASRock Radeon RX 6600 Gaming OC",
+    "brand": "ASRock",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 234,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3080000
+  },
+  {
+    "name": "ASRock Radeon RX 6600 Pulse",
+    "brand": "ASRock",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 219,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3620000
+  },
+  {
+    "name": "XFX Radeon RX 6600 iGame",
+    "brand": "XFX",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 200,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 2760000
+  },
+  {
+    "name": "XFX Radeon RX 6600 Eagle",
+    "brand": "XFX",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 229,
+    "height": 111,
+    "slotWidth": 2,
+    "tdp": 132,
+    "recommendedPsu": 450,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 2960000
+  },
+  {
+    "name": "ASUS Radeon RX 6700 XT Ventus 2X",
+    "brand": "ASUS",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 276,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4810000
+  },
+  {
+    "name": "ASUS Radeon RX 6700 XT iGame",
+    "brand": "ASUS",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 283,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6100000
+  },
+  {
+    "name": "MSI Radeon RX 6700 XT Super JetStream",
+    "brand": "MSI",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 286,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6280000
+  },
+  {
+    "name": "MSI Radeon RX 6700 XT Super JetStream",
+    "brand": "MSI",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 272,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5650000
+  },
+  {
+    "name": "Gigabyte Radeon RX 6700 XT Ichill",
+    "brand": "Gigabyte",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 293,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5290000
+  },
+  {
+    "name": "Gigabyte Radeon RX 6700 XT Gaming OC",
+    "brand": "Gigabyte",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 298,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6060000
+  },
+  {
+    "name": "Sapphire Radeon RX 6700 XT Pulse",
+    "brand": "Sapphire",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 283,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5040000
+  },
+  {
+    "name": "Sapphire Radeon RX 6700 XT Challenger",
+    "brand": "Sapphire",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 285,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5230000
+  },
+  {
+    "name": "PowerColor Radeon RX 6700 XT iGame",
+    "brand": "PowerColor",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 271,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6180000
+  },
+  {
+    "name": "PowerColor Radeon RX 6700 XT Gaming OC",
+    "brand": "PowerColor",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 289,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5180000
+  },
+  {
+    "name": "ASRock Radeon RX 6700 XT Super JetStream",
+    "brand": "ASRock",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 267,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5400000
+  },
+  {
+    "name": "ASRock Radeon RX 6700 XT Gaming OC",
+    "brand": "ASRock",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 298,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5970000
+  },
+  {
+    "name": "XFX Radeon RX 6700 XT Dual",
+    "brand": "XFX",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 290,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6330000
+  },
+  {
+    "name": "XFX Radeon RX 6700 XT iGame",
+    "brand": "XFX",
+    "vram": 12,
+    "memoryType": "GDDR6",
+    "length": 276,
+    "height": 120,
+    "slotWidth": 2,
+    "tdp": 230,
+    "recommendedPsu": 650,
+    "powerConnectors": [
+      "8pin",
+      "6pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 6080000
+  },
+  {
+    "name": "ASUS Radeon RX 7600 Super JetStream",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 241,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4130000
+  },
+  {
+    "name": "ASUS Radeon RX 7600 Challenger",
+    "brand": "ASUS",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 205,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4010000
+  },
+  {
+    "name": "MSI Radeon RX 7600 Super JetStream",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 241,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4750000
+  },
+  {
+    "name": "MSI Radeon RX 7600 Super JetStream",
+    "brand": "MSI",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 225,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4030000
+  },
+  {
+    "name": "Gigabyte Radeon RX 7600 Eagle",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 212,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4630000
+  },
+  {
+    "name": "Gigabyte Radeon RX 7600 Gaming OC",
+    "brand": "Gigabyte",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 228,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5020000
+  },
+  {
+    "name": "Sapphire Radeon RX 7600 Super JetStream",
+    "brand": "Sapphire",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 206,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4310000
+  },
+  {
+    "name": "Sapphire Radeon RX 7600 Ichill",
+    "brand": "Sapphire",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 220,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 3900000
+  },
+  {
+    "name": "PowerColor Radeon RX 7600 Ichill",
+    "brand": "PowerColor",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 209,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4170000
+  },
+  {
+    "name": "PowerColor Radeon RX 7600 Twin Edge",
+    "brand": "PowerColor",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 242,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 5120000
+  },
+  {
+    "name": "ASRock Radeon RX 7600 Gaming OC",
+    "brand": "ASRock",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 215,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4850000
+  },
+  {
+    "name": "ASRock Radeon RX 7600 Fighter",
+    "brand": "ASRock",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 205,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4360000
+  },
+  {
+    "name": "XFX Radeon RX 7600 iGame",
+    "brand": "XFX",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 206,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4580000
+  },
+  {
+    "name": "XFX Radeon RX 7600 Eagle",
+    "brand": "XFX",
+    "vram": 8,
+    "memoryType": "GDDR6",
+    "length": 237,
+    "height": 115,
+    "slotWidth": 2,
+    "tdp": 165,
+    "recommendedPsu": 550,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 4810000
+  },
+  {
+    "name": "ASUS Radeon RX 7900 XTX Challenger",
+    "brand": "ASUS",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 293,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 18210000
+  },
+  {
+    "name": "ASUS Radeon RX 7900 XTX Super JetStream",
+    "brand": "ASUS",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 290,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 16280000
+  },
+  {
+    "name": "MSI Radeon RX 7900 XTX Ichill",
+    "brand": "MSI",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 306,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 17240000
+  },
+  {
+    "name": "MSI Radeon RX 7900 XTX Pulse",
+    "brand": "MSI",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 312,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 16380000
+  },
+  {
+    "name": "Gigabyte Radeon RX 7900 XTX Fighter",
+    "brand": "Gigabyte",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 289,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 17660000
+  },
+  {
+    "name": "Gigabyte Radeon RX 7900 XTX Super JetStream",
+    "brand": "Gigabyte",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 289,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 14970000
+  },
+  {
+    "name": "Sapphire Radeon RX 7900 XTX iGame",
+    "brand": "Sapphire",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 288,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 16100000
+  },
+  {
+    "name": "Sapphire Radeon RX 7900 XTX Pulse",
+    "brand": "Sapphire",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 313,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 14250000
+  },
+  {
+    "name": "PowerColor Radeon RX 7900 XTX Fighter",
+    "brand": "PowerColor",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 289,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 17530000
+  },
+  {
+    "name": "PowerColor Radeon RX 7900 XTX Twin Edge",
+    "brand": "PowerColor",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 320,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 14690000
+  },
+  {
+    "name": "ASRock Radeon RX 7900 XTX Ichill",
+    "brand": "ASRock",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 324,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 18400000
+  },
+  {
+    "name": "ASRock Radeon RX 7900 XTX Challenger",
+    "brand": "ASRock",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 299,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 16110000
+  },
+  {
+    "name": "XFX Radeon RX 7900 XTX Super JetStream",
+    "brand": "XFX",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 308,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 18360000
+  },
+  {
+    "name": "XFX Radeon RX 7900 XTX Twin Edge",
+    "brand": "XFX",
+    "vram": 24,
+    "memoryType": "GDDR6",
+    "length": 305,
+    "height": 120,
+    "slotWidth": 3,
+    "tdp": 355,
+    "recommendedPsu": 800,
+    "powerConnectors": [
+      "8pin",
+      "8pin"
+    ],
+    "interface": "PCIe x16",
+    "pcieGeneration": "PCIe 4.0",
+    "price": 14520000
+  }
+]

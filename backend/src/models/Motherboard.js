@@ -1,0 +1,4 @@
+const mongoose = require('mongoose');
+const schema = new mongoose.Schema({ name: String, brand: String, socket: String, chipset: String, formFactor: String, ramType: String, ramSlots: Number, maxRam: Number, supportedRamSpeeds: [Number], pcieVersion: String, pcieX16Slots: Number, m2Slots: Number, sataPorts: Number, wifi: Boolean, bluetooth: Boolean, price: Number, image: String, description: String, specSource: String, category: { type: String, default: 'MOTHERBOARD' } }, { timestamps: true });
+schema.set('toJSON', { virtuals: true, transform: (doc, ret) => { ret.id = ret._id; delete ret._id; delete ret.__v; return ret; } });
+module.exports = mongoose.model('Motherboard', schema);

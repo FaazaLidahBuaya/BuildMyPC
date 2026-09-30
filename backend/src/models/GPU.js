@@ -1,0 +1,4 @@
+const mongoose = require('mongoose');
+const schema = new mongoose.Schema({ name: String, brand: String, vram: Number, memoryType: String, length: Number, height: Number, slotWidth: Number, tdp: Number, recommendedPsu: Number, powerConnectors: [String], interface: String, pcieGeneration: String, price: Number, image: String, description: String, specSource: String, category: { type: String, default: 'GPU' } }, { timestamps: true });
+schema.set('toJSON', { virtuals: true, transform: (doc, ret) => { ret.id = ret._id; delete ret._id; delete ret.__v; return ret; } });
+module.exports = mongoose.model('GPU', schema);
