@@ -34,6 +34,8 @@ const FilterGroup = ({ label, options, value, onChange }) => (
   </div>
 );
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+
 const BuilderPage = () => {
   const location = useLocation();
   const navigate = useNavigate();
@@ -86,7 +88,7 @@ const BuilderPage = () => {
     const preset = params.get('preset');
     if (preset) {
       setLoading(true);
-      fetch(`http://localhost:5000/api/components/preset/${preset}`)
+      fetch(`${API_URL}/api/components/preset/${preset}`)
         .then(res => res.json())
         .then(data => {
           if (data.success && data.data) {
@@ -125,9 +127,9 @@ const BuilderPage = () => {
   const fetchComponentsForCategory = async (category) => {
     setLoading(true);
     try {
-      let url = `http://localhost:5000/api/components?category=${category}`;
+      let url = `${API_URL}/api/components?category=${category}`;
       if (build.CPU && category === 'MOTHERBOARD') {
-        url = `http://localhost:5000/api/components/${category}/compatible?with=${build.CPU.id}`;
+        url = `${API_URL}/api/components/${category}/compatible?with=${build.CPU.id}`;
       }
       
       const res = await fetch(url);
@@ -155,7 +157,7 @@ const BuilderPage = () => {
         cooler: newBuild.COOLER?.id
       };
 
-      const res = await fetch('http://localhost:5000/api/compatibility/check', {
+      const res = await fetch(`${API_URL}/api/compatibility/check`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
