@@ -11,9 +11,11 @@ const Navbar = () => {
       transition={{ delay: 0.15, duration: 0.8 }}
       className="fixed top-0 left-0 right-0 z-50 h-[72px] flex items-center justify-between px-[24px] md:px-[60px] border-b border-white/5 bg-[#080808]/85 backdrop-blur-md"
     >
-      <div className="text-[12px] md:text-[13px] font-mono tracking-[0.05em] uppercase w-1/4 flex items-center gap-3">
-        <div className="w-4 h-4 bg-accent"></div>
-        <Link to="/" className="hover:text-accent transition-colors font-bold">BuildMyPC</Link>
+      <div className="text-[12px] md:text-[13px] font-mono tracking-[0.05em] uppercase w-1/4 flex items-center">
+        <Link to="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
+          <img src="/logo.jpg" alt="BuildMyPC Logo" className="w-8 h-8 object-contain mix-blend-lighten" />
+          <span className="font-bold hidden sm:inline-block">BuildMyPC</span>
+        </Link>
       </div>
 
       <div className="hidden lg:flex justify-center gap-10 text-[10px] md:text-[11px] font-mono tracking-[0.05em] uppercase text-gray-400 w-1/2">
