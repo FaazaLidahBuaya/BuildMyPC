@@ -34,7 +34,7 @@ const FilterGroup = ({ label, options, value, onChange }) => (
   </div>
 );
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API_URL = import.meta.env.VITE_API_URL || 'https://build-my-pc-indol.vercel.app';
 
 const BuilderPage = () => {
   const location = useLocation();
